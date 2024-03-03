@@ -14,6 +14,7 @@
 
 ## Goals and Success Criteria: 
 ### How my customer measure success?
+The establishment of efficient mechanisms for data ingestion from diverse sources, implementing an Extract, Transform, Load (ETL) system to convert raw data into the appropriate format, and creating a centralized data lake for storage. And the Marketing Team will have better insights on Viewers interactions and which category has large audience. This will help them to better strategize for better youtube campaigns. 
 
 ### What Experience I gained:
 1.	Building Data Lake from scratch using Amazon S3
