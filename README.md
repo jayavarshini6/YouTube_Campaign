@@ -44,7 +44,7 @@ Cloud — We can’t process vast amounts of data on our local computer so we ne
 Reporting — Build a dashboard to get answers to the question we asked earlier
 
 ### Data Architecture:
-<img align="center" src="Img/Imag1.png">
+<img align="center" src="PipelineImg/Data Flow Architecture.jpg">
 
 ### Services used:
 
