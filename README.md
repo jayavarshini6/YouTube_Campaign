@@ -42,6 +42,10 @@ Scalability — As the size of our data increases, we need to make sure our syst
 Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 
 Reporting — Build a dashboard to get answers to the question we asked earlier
+
+### Data Architecture:
+<img align="center" src="Img/Imag1.png">
+
 ### Services used:
 
 Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
@@ -63,5 +67,4 @@ many locations. The data for each region is in its own file. The video title, ch
 are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
-
 
